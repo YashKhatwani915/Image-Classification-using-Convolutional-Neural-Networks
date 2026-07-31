@@ -3,7 +3,6 @@
 **Author:** Yash  
 **Registration Number:** 23BCE10362  
 **Assignment:** AI-ML Assignment – 9  
-**GitHub Repository:** [Image-Classification-using-Convolutional-Neural-Networks](https://github.com/yash23bce10362/Image-Classification-using-Convolutional-Neural-Networks)
 
 ---
 
